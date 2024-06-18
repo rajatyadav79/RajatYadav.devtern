@@ -1,2 +1,1 @@
-# todo: Add your api key here
-apikey = "Your-Open-AI-Key"
+apikey = "sk-proj-xxxx"
